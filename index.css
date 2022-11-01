@@ -1,0 +1,40 @@
+.container-scroller {
+  padding: 0px 100px 30px 100px;
+}
+.btn {
+  background-color: #1c7ca3;
+  color: white;
+}
+.nav-link {
+  color: #1c7ca3 !important;
+  font-weight: 100px !important;
+  list-style-type: none;
+}
+.nav-part {
+  display: flex !important;
+}
+.nav_li {
+  list-style-type: none;
+}
+.nav_li > a {
+  color: #1c7ca3 !important;
+  padding: 10px;
+}
+.nav_ul {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+.nav_div {
+  display: flex;
+  justify-content: space-between;
+}
+.nav_div {
+  padding-bottom: -30px;
+}
+.nav_div_part {
+  padding: 30px 0px 0px 0px;
+}
+.logo_image {
+  height: 80px;
+}
