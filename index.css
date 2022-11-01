@@ -38,3 +38,80 @@
 .logo_image {
   height: 80px;
 }
+footer.main-footer p.social a.facebook {
+  background-color: #4460ae;
+}
+
+footer.main-footer p.social a.gplus {
+  background-color: #c21f25;
+}
+
+footer.main-footer p.social a.instagram {
+  background-color: #cd4378;
+}
+
+footer.main-footer p.social a.email {
+  background-color: #4a7f45;
+}
+footer.main-footer p.social a {
+  margin-left: 10px;
+  color: #fff;
+  display: inline-block;
+  width: 45px;
+  height: 45px;
+  border-radius: 25px;
+  line-height: 45px;
+  font-size: 1.3rem;
+  vertical-align: middle;
+  text-align: center;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.color1 {
+  color: #1c7ca3;
+}
+.color2 {
+  color: #021533;
+}
+
+.group_members {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+.mem {
+  font-size: 1.6rem;
+  font-weight: 90px;
+  margin: auto;
+
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  line-height: 1.2;
+  color: #1c7ca3;
+  margin-top: 20px;
+  letter-spacing: 0;
+  text-align: center !important;
+}
+.card-img-top {
+  height: 200px;
+}
+.contact-card {
+  border: 1px #ccc;
+  padding-top: 20px;
+  display: flex;
+}
+.one {
+  padding: 10px 30px 10px 40px;
+}
+footer {
+  background-color: black;
+  padding: 10px;
+}
+.last {
+  color: white;
+}
+.doc > a {
+  color: #1c7ca3;
+  font-weight: bolder;
+}
